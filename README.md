@@ -1,6 +1,6 @@
 # Wordpress Automatic Install Tool
 
- ##Descripción
+ Descripción
   Herramienta que permite la instalación automática del famoso CMS wordpress en un servidor Linux que tenga instalado previamente python.
   
 ##Empleo
