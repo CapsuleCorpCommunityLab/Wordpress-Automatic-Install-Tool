@@ -70,7 +70,7 @@ def uninstall():
 	
 	print "Esto eliminará todo el contenido de la carpeta /var/www/html"
 	d = raw_input("¿Quieres continuar? Y/N: ")
-	if (d == "Y" od d == "y"):
+	if (d == "Y" or d == "y"):
 		os.system("rm -rf /var/www/html/wordpress")
 	elif (d == "n" or d == "N"):
 		sys.exit()
